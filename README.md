@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=MeongGanas)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MeongGanas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=450" alt="GitHub Streak" style="width:100%;" /></a>
