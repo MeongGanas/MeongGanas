@@ -1,7 +1,8 @@
 <h1 align="center"><samp>Hi there, i'm
-<a href="https://github.com/MeongGanas" target="_blank">@MeongGanas</a></samp>
+<a href="https://github.com/MeongGanas" target="_blank">Farrel Giovanni Jaohari</a></samp>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-</p>
+
+<p>I'm passionate about full-stack web development, cybersecurity (CTFs), and competitive programming</p>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
