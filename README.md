@@ -22,6 +22,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Ngrok" src="https://img.shields.io/badge/-Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MeongGanas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width:100%;" /></a>
